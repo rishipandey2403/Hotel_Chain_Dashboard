@@ -1,0 +1,14 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="420" fill="#0f172a"/>
+  <text x="36" y="54" fill="#e2e8f0" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Revenue Trend (Snippet)</text>
+  <text x="36" y="86" fill="#93c5fd" font-family="Segoe UI, Arial" font-size="16">Monthly Revenue (USD Millions)</text>
+  <line x1="60" y1="340" x2="760" y2="340" stroke="#334155" stroke-width="2"/>
+  <line x1="60" y1="120" x2="60" y2="340" stroke="#334155" stroke-width="2"/>
+  <polyline fill="none" stroke="#22d3ee" stroke-width="5" points="80,310 150,290 220,280 290,240 360,250 430,215 500,200 570,180 640,165 710,140"/>
+  <g fill="#22d3ee">
+    <circle cx="80" cy="310" r="5"/><circle cx="150" cy="290" r="5"/><circle cx="220" cy="280" r="5"/>
+    <circle cx="290" cy="240" r="5"/><circle cx="360" cy="250" r="5"/><circle cx="430" cy="215" r="5"/>
+    <circle cx="500" cy="200" r="5"/><circle cx="570" cy="180" r="5"/><circle cx="640" cy="165" r="5"/><circle cx="710" cy="140" r="5"/>
+  </g>
+  <text x="620" y="118" fill="#67e8f9" font-family="Segoe UI, Arial" font-size="18" font-weight="600">+27% YoY</text>
+</svg>
