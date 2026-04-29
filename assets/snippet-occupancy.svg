@@ -1,0 +1,11 @@
+<svg width="800" height="420" viewBox="0 0 800 420" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="420" fill="#111827"/>
+  <text x="36" y="54" fill="#f3f4f6" font-family="Segoe UI, Arial" font-size="28" font-weight="700">Occupancy by City (Snippet)</text>
+  <text x="36" y="86" fill="#86efac" font-family="Segoe UI, Arial" font-size="16">Average Occupancy %</text>
+  <g font-family="Segoe UI, Arial" font-size="16" fill="#d1d5db">
+    <text x="60" y="140">Mumbai</text><rect x="170" y="122" width="510" height="24" fill="#16a34a"/><text x="695" y="140">85%</text>
+    <text x="60" y="190">Delhi</text><rect x="170" y="172" width="462" height="24" fill="#22c55e"/><text x="647" y="190">77%</text>
+    <text x="60" y="240">Bangalore</text><rect x="170" y="222" width="432" height="24" fill="#4ade80"/><text x="617" y="240">72%</text>
+    <text x="60" y="290">Hyderabad</text><rect x="170" y="272" width="390" height="24" fill="#86efac"/><text x="575" y="290">65%</text>
+  </g>
+</svg>
